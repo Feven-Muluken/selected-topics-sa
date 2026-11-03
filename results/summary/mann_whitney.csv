@@ -1,0 +1,4 @@
+instance,sa_median,baseline_median,u_statistic,p_value,alpha,significant
+a280,3788.0,4498.5,0.0,3.006634138511715e-11,0.05,True
+att48,10864.0,12135.0,0.0,3.019859359162157e-11,0.05,True
+ch130,6657.0,8731.5,0.0,3.0141849228072565e-11,0.05,True
